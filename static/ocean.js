@@ -9,5 +9,3 @@ $(document).ready(function () {
         $("#menuButton").is(":checked") ? $(".the-bass").addClass("dropped"): $(".the-bass").removeClass("dropped");
     });
 });
-
-
